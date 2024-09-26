@@ -27,6 +27,7 @@
 
 ## Usage
 SymbolScult can be used to generate any three-letter symbol. Once the app is running, simply provide your input, and the app will return your selected symbol with the letters inside.
+
 ![circle](https://github.com/user-attachments/assets/0544a05c-036b-47f4-9c0e-23047eee6a27)
 
 ![triangle](https://github.com/user-attachments/assets/db5f2589-c86c-4808-9553-cd83146ea471)
